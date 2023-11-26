@@ -1,5 +1,7 @@
 
-![image](https://github.com/AlexanderSchelokov/coursework_network_engineer/assets/121572590/60aa00cf-8413-44e7-9a38-a256893f83c2)
+
+![image](https://github.com/AlexanderSchelokov/coursework_network_engineer/assets/121572590/bcaa2188-599d-41b4-98e5-270293d39573)
+
 
 
 
