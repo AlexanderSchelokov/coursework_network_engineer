@@ -1,6 +1,5 @@
 
-![image](https://github.com/AlexanderSchelokov/coursework_network_engineer/assets/121572590/3d9b5341-ae43-47cc-84e4-a1afba3a77ff)
-
+![image](https://github.com/AlexanderSchelokov/coursework_network_engineer/assets/121572590/60aa00cf-8413-44e7-9a38-a256893f83c2)
 
 
 
@@ -36,11 +35,18 @@
 ![image](https://github.com/AlexanderSchelokov/coursework_network_engineer/assets/121572590/d84f722e-89f0-4dfe-bb0c-b47eac499359)
 
 Точка А – ПК в отделе продаж, точка Б – интернет (3.0.0.2). Полное отключение маршрутизатора, к которому подключен ISP1, проверка того, что центральный офис перешел на второй маршрутизатор.
-
-
+![image](https://github.com/AlexanderSchelokov/coursework_network_engineer/assets/121572590/1275d182-d512-4dbc-aede-a7665bdeb73b)
 
 Точка А – ПК в производственном отделе, точка Б – пользователь на производстве. Полное отключение маршрутизатора, к которому подключен ISP1, проверка того, что связь до производства перешла на второй маршрутизатор.
+![image](https://github.com/AlexanderSchelokov/coursework_network_engineer/assets/121572590/c7432674-2c75-4546-ad9b-9f4c0ede8243)
+
 Точка А – ПК в бухгалтерии, точка Б – интернет (3.0.0.2). Отключение устройства, на котором расположены адреса шлюзов по умолчанию для внутренних сетей в центральном офисе. Проверка того, что адрес шлюза стал доступен через резервное устройство.
+![image](https://github.com/AlexanderSchelokov/coursework_network_engineer/assets/121572590/f31ed253-8a02-464f-8e46-6db453349901)
+
+
 Точка А – ПК в бухгалтерии, точка Б – интернет (3.0.0.2). Поочередное отключение каждого из линков, подключенных к коммутатору доступа, где расположена точка А. Проверка того, что выход из строя одного из линков не нарушает связность.
-ПРИМЕЧАНИЕ. В связи с особенностью эмулятора Packet Tracer, часто бывает так, что для того, чтобы тест заработал, нужно перезагрузить устройства.
+![image](https://github.com/AlexanderSchelokov/coursework_network_engineer/assets/121572590/b7c2701b-d634-4c0e-b4f1-de931c6734fa)
+![image](https://github.com/AlexanderSchelokov/coursework_network_engineer/assets/121572590/4b964e21-adf6-4063-90f7-e95acb00731e)
+![image](https://github.com/AlexanderSchelokov/coursework_network_engineer/assets/121572590/01506aff-4b34-4fda-bfbc-21169342fa9a)
+
 
